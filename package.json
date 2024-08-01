@@ -1,7 +1,7 @@
 {
-  "name": "webpack-template",
-  "version": "1.0.0",
-  "description": "webpack template to use",
+  "name": "odin-project-homepage",
+  "version": "0.0.1",
+  "description": "Homepage site for The Odin Project",
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose --watch ./src/JS/*.js",
