@@ -46,6 +46,7 @@ module.exports = {
       title: 'TOP - Homepage',
       filename: 'index.html',
       template: 'src/template.html',
+      favicon: 'src/favicon.png',
     }),
   ],
 };
